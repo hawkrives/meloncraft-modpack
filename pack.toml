@@ -1,6 +1,6 @@
 name = "Meloncraft Modpack"
 author = "vids_by_melon"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
