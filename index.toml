@@ -151,11 +151,6 @@ hash = "5f53b8739d1e92548d593b208a78c2e8eedceaf72edaddc3e986acac26db3d9f"
 metafile = true
 
 [[files]]
-file = "mods/create-easy-structures.pw.toml"
-hash = "05b9fefeae2113b540e83203c02905ad829a9b1f953ec083cfab6ce30c67c6e3"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "6f3565d34d951d82e4e18976e9126d47d0a643148cf143b2756bcb41351218e0"
 metafile = true
