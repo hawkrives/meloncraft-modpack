@@ -1,0 +1,13 @@
+name = "Meloncraft Modpack"
+author = "vids_by_melon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "638c608b2a1bd81a908b8328ea6e9ebe3bc2fb98ebaaf7e21309ec881273bb74"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.25.0-beta.2"

@@ -1,0 +1,13 @@
+name = "Pint decorations"
+filename = "pint_deco_1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba195f783f0006a764d44099285c09aa3e0abf3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750168
+project-id = 912700

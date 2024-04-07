@@ -1,0 +1,13 @@
+name = "[Let's Do] NetherVinery"
+filename = "letsdo-nethervinery-forge-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "375b9862a9df7dd16899e5b0817c8166a17708db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5221324
+project-id = 930072
