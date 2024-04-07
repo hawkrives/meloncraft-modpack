@@ -231,6 +231,11 @@ hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
 
 [[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "5b0b3f62b052d7d4489ce1668dae0abd39e5c83d1986c0afd1e335ddaa99fbb8"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "aadc8c76d4879e1caa1d3616e8b672876fc24a81e6f6a2270226850cc676b16a"
 metafile = true
