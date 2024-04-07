@@ -1,0 +1,13 @@
+name = "no-spider"
+filename = "nospider-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/C1EwmZlF/versions/6ncqabkp/nospider-1.0.jar"
+hash-format = "sha1"
+hash = "8387f7831d2f2429ea6b651a27200f57cbde4274"
+
+[update]
+[update.modrinth]
+mod-id = "C1EwmZlF"
+version = "6ncqabkp"

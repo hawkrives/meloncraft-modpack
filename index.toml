@@ -361,6 +361,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/no-spider.pw.toml"
+hash = "6604e1aff8669bf39773b46c8e2415fe01d0b32dd18b170e75dbd4d80317bdd5"
+metafile = true
+
+[[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "0b2ba2028a8664b93c332bf97ce78672b2882f47ecf2972ec3aaa53574a91a23"
 metafile = true
