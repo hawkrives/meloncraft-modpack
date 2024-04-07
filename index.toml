@@ -132,67 +132,62 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "4bc5d111a9937302546ee8f831b4881f2085bfbac982b94bdf9aec3bd426a53a"
-metafile = true
-
-[[files]]
-file = "mods/create-destroy.pw.toml"
-hash = "2d1204fd594306e9025bcbe860bdb3de337f891eb8fd089b82a48d479cb6ad07"
+hash = "3054a4c846f399e23a8f06d2460e0c6a9ff32f8c5341e500098b59a4db0c71f2"
 metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "8f7276811d29b0163676111f2b1e486b0b335fea6820b8c6e5b6d7375a9589ed"
+hash = "5f53b8739d1e92548d593b208a78c2e8eedceaf72edaddc3e986acac26db3d9f"
 metafile = true
 
 [[files]]
 file = "mods/create-easy-structures.pw.toml"
-hash = "0463e173b1dd3a72f2b5c5601e9384e5686d75049620529b0db5b3a9d2dfa900"
+hash = "05b9fefeae2113b540e83203c02905ad829a9b1f953ec083cfab6ce30c67c6e3"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "bf6a000f37ef4d43d718552853c22dbbe76a423cbf82234d2b55ae71ae4fead2"
-metafile = true
-
-[[files]]
-file = "mods/create-industry.pw.toml"
-hash = "efb9cf070be73bc4fe9458a553fd2e470009bb98d44d66c7681fe06c93aee8d7"
+hash = "6f3565d34d951d82e4e18976e9126d47d0a643148cf143b2756bcb41351218e0"
 metafile = true
 
 [[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
-hash = "880d32d2d885740383c594471c4a8cea7e8da7f991ad32825eacc94a28f27cad"
+hash = "8b1f57dd131185643b45665a74ccadd1f9971f7202519a5630aa31d245126ba1"
 metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "67ac69249248ff9b8fe176111a55b71a95dbadd718bb005fa91f9ef6c7b04f36"
+hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
 metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "ce654994a5727a74079acb115e48e944754218dca3f441a3315cd8d1b9f7fd9b"
+hash = "85c58f1343f94ffbf510922ada6b2d3ff9ca323eb98eaeeff2237a5d5e342d87"
 metafile = true
 
 [[files]]
 file = "mods/create-oppenheimered.pw.toml"
-hash = "d2dbdbb01fdf7cdb1b2b806f4938f58e2a3d5dcd2d85e2514fc3972c6c177bb1"
+hash = "bb676096df4c62b95b36d5bda9f24f9e4a8b250e8dd407b2685a2b4322a40028"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
+hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
 metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
+hash = "4c6fbf3f3ea6f6fc907d9673a77dd991776c55ad7a25d0011034d66624616518"
 metafile = true
 
 [[files]]
 file = "mods/create-sweets-and-treats.pw.toml"
-hash = "738b8b80e2f5b01f40f7c9c5b95fcdab8239b2a627d584dcd32ec534ec8fff1c"
+hash = "1447bb7b0451dbcd05d73744e26d359aea5ff504f72314da3f83f9fa6919b1d6"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "14959b903b850ab54f017ba3db7a101d35dd63dc382e42c1d970a7ae2332a3dd"
 metafile = true
 
 [[files]]
@@ -218,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "73d04361ac8c44b7128d1acf9bf4384f8e573ff3308065047f8675112540c9c9"
+metafile = true
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "85063ba86db4880177fa26fc5f3ec80a7d7450b411f740c52637d7b36dd58231"
 metafile = true
 
 [[files]]
