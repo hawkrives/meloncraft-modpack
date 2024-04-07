@@ -331,6 +331,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "0b2ba2028a8664b93c332bf97ce78672b2882f47ecf2972ec3aaa53574a91a23"
 metafile = true
