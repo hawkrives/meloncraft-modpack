@@ -391,11 +391,6 @@ hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
 metafile = true
 
 [[files]]
-file = "mods/pint-decorations-1-0.pw.toml"
-hash = "d8c18df39b794ff836678079bed5f56dabf4dc8943b4bbc531c8bc9c444de6db"
-metafile = true
-
-[[files]]
 file = "mods/playdate.pw.toml"
 hash = "284fbc1e3e8f4bb355866635bb2fc20af94f279b7fabe892c510929df6d2fcca"
 metafile = true
