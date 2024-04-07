@@ -251,6 +251,11 @@ hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "4fe94e76440cc9912750c7d2c429e8430a66d60c71190abebb9c61422f899930"
 metafile = true
