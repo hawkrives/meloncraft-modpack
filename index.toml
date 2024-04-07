@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "5d99a54b1e9778a6ed6ee2a9d71fe00d47213b67b6828ce34364799334a21d3b"
+hash = "fd57040aa76f9aa1ef678020b623c37c9a1ce0cced3d93fda9c9db6bfe94776c"
 metafile = true
 
 [[files]]
