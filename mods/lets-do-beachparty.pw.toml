@@ -3,11 +3,11 @@ filename = "letsdo-beachparty-forge-1.1.4-1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/GyKzAh3l/versions/di59ab2V/letsdo-beachparty-forge-1.1.4-1.jar"
 hash-format = "sha1"
 hash = "6bdbb3e9b7d39854cb91816dc7eb71e28a075b65"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5206094
-project-id = 858691
+[update.modrinth]
+mod-id = "GyKzAh3l"
+version = "di59ab2V"
