@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "5140f31eb89561edb7250136f74b801f738d77ac64910b65951ce561f79f4d41"
+hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
 
 [[files]]
