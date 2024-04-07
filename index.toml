@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/cluttered.pw.toml"
-hash = "84c4b7a5345637f1653938542b08cfd99b52932daf36d7d89420cb77d786a395"
+hash = "c7ba95d8b8f60a36db85c863366251d34b3de57ff01ad7247766bf0d109b0e8f"
 metafile = true
 
 [[files]]
