@@ -96,8 +96,8 @@ hash = "bd96c93d351c2a5b57795800967a562bb63a0d84163d364fc36b4ad050ebde18"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits-for-tfc.pw.toml"
-hash = "3fd890d5a2beafaa8a03a1cf0ee2135f54ecf280b3945758109e9317219b54d4"
+file = "mods/chisels-bits.pw.toml"
+hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
 
 [[files]]
@@ -393,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
-metafile = true
-
-[[files]]
-file = "mods/terrafirmacraft.pw.toml"
-hash = "0f6f64ee844dc008212a97b3bb771c8702acc3eb2021107fb708cca22cda91f5"
 metafile = true
 
 [[files]]
