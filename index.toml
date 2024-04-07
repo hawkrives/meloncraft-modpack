@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "e19e778b75bd83958e62b7902c92e83f1095c20e07551ebc9917068895294721"
+hash = "4fe94e76440cc9912750c7d2c429e8430a66d60c71190abebb9c61422f899930"
 metafile = true
 
 [[files]]
