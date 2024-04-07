@@ -76,8 +76,8 @@ hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+file = "mods/bookshelf-lib.pw.toml"
+hash = "119c6183e0ee766c12e155250b3efff9dde67783453a1cfd421fce7ce168ca2b"
 metafile = true
 
 [[files]]
