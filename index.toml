@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/caupona.pw.toml"
-hash = "e94d750c6f7ad70c6f092a0e1f37100c6052c155dfcde57502fe5dc3b40deb91"
+hash = "bd96c93d351c2a5b57795800967a562bb63a0d84163d364fc36b4ad050ebde18"
 metafile = true
 
 [[files]]

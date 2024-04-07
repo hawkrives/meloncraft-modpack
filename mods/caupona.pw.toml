@@ -3,11 +3,11 @@ filename = "caupona-1.20.1-0.4.9.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/EFoYZIZL/versions/wAYHNkKT/caupona-1.20.1-0.4.9.jar"
 hash-format = "sha1"
-hash = "0b005d3ad42fd30e39b1f056dfc955496b6b356e"
-mode = "metadata:curseforge"
+hash = "4daf72883ba186104c39a7d69194305ee4d4bc4f"
 
 [update]
-[update.curseforge]
-file-id = 5116975
-project-id = 656147
+[update.modrinth]
+mod-id = "EFoYZIZL"
+version = "wAYHNkKT"
