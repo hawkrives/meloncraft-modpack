@@ -469,3 +469,8 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "d92d38a261d5c8449b33c114ba3391567c5aca8853301928746de2386348b50b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
