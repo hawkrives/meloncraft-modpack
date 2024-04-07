@@ -411,6 +411,11 @@ hash = "512ba8a57ff7e58b76f98f2c4eb7dbb1c77c825d41b5864e28319ebd2c769f52"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9512f45388bcc5841673d954109bb1b2ac448b323efefbdd45d7c252c6e43089"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "1c81e1ebfd0a47ebc8fd6da82834c06f2d730538f892f9933420748586779be5"
 metafile = true
