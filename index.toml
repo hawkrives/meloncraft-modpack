@@ -201,6 +201,10 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/create_easy_structures-0.1.1-1.20.1.jar"
+hash = "a8e07f9979ec7321c23f5e833d3cabbf64f24695e0e1a840dbceaf0374aab544"
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
 metafile = true
@@ -409,6 +413,10 @@ metafile = true
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
 metafile = true
+
+[[files]]
+file = "mods/pint_deco_1.0.jar"
+hash = "02df0852a7fd7f03bf1d8267e223dd435684f375cfdebd09dc3e7f0b3a60a4a0"
 
 [[files]]
 file = "mods/playdate.pw.toml"
