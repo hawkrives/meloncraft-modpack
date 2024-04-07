@@ -321,6 +321,11 @@ hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
