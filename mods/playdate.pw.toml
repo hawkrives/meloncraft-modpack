@@ -3,11 +3,11 @@ filename = "playdate-2.0.0-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/cO7ZncDY/versions/MiOpXTbw/playdate-2.0.0-forge.jar"
 hash-format = "sha1"
 hash = "97334fa273f93c1d6cc2b6762b4048ac9b5b9aa1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4721793
-project-id = 577629
+[update.modrinth]
+mod-id = "cO7ZncDY"
+version = "MiOpXTbw"

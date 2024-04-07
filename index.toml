@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/playdate.pw.toml"
-hash = "411a99654e32b6fc975ef5f3a62c4dcc3cc698b6888d6881df099c2b69997057"
+hash = "284fbc1e3e8f4bb355866635bb2fc20af94f279b7fabe892c510929df6d2fcca"
 metafile = true
 
 [[files]]
