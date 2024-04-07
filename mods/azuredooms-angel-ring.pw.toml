@@ -1,0 +1,13 @@
+name = "AzureDooms Angel Ring"
+filename = "doomangelring-neo-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpVrx0oi/versions/iMQcKc3U/doomangelring-neo-1.20.1-3.0.1.jar"
+hash-format = "sha1"
+hash = "620c2159c010fb387350fb2734e44a7125dcec79"
+
+[update]
+[update.modrinth]
+mod-id = "VpVrx0oi"
+version = "iMQcKc3U"

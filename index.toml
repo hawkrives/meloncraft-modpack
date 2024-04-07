@@ -2,22 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
+hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "2cd1564ca648fdd9031197bb51b19a92ab034b51e212ad0ec5bf9a77df2afd2c"
+hash = "342c4150cf2a14b09785131d8c44fb99c4c63e7c1e8e4cd0198f8ae923262515"
 metafile = true
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
-hash = "96e8edb78ff7965d41045e2efbe659d4e4f60b77eb79456d4e8f45342a3f91d6"
-metafile = true
-
-[[files]]
-file = "mods/angel-ring.pw.toml"
-hash = "48043d1268df7dbf91e52289fbf89d2e73f151b989c68a00195beb10240aa9cc"
+hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
 
 [[files]]
@@ -43,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7ae86f78307485e26ba7c762c19f720c42baa617a5a91bb29f63fd2d318f2113"
+metafile = true
+
+[[files]]
+file = "mods/azuredooms-angel-ring.pw.toml"
+hash = "9ba5f759ae22ca53faaf0f8b6beabb02c9f4da5d7ceea119527aaa7ad5ee95a0"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "e143d0f959749058b0b33a88b9b258d0991b805ce83476cad87e555875db047e"
 metafile = true
 
 [[files]]
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
+hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ead7066d6c446bdfed73aca9617f070b8a034545f8d30125228cd4fc42e44e70"
+hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
@@ -357,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
+hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]

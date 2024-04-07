@@ -3,11 +3,11 @@ filename = "aether-1.20.1-1.3.1-neoforge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/uoBgPC5f/aether-1.20.1-1.3.1-neoforge.jar"
 hash-format = "sha1"
-hash = "82fb7d6c42ac71e66988bdc05f2d90b1e0c2851c"
-mode = "metadata:curseforge"
+hash = "113b12170136c28f91f0d617d497ba0c5df90237"
 
 [update]
-[update.curseforge]
-file-id = 5196418
-project-id = 255308
+[update.modrinth]
+mod-id = "YhmgMVyu"
+version = "uoBgPC5f"
