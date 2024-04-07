@@ -1,13 +1,13 @@
 name = "Create: Bells & Whistles"
-filename = "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar"
+filename = "bellsandwhistles-0.4.3-1.20.x.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "70e97c2ff786b8df7f354a37442ae36f4df35dc3"
+hash = "7cb1e1dc365c43f08ee7616f1505759e547b11be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4894378
+file-id = 4860141
 project-id = 905040
