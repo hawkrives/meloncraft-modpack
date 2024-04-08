@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/tectonic.pw.toml"
-hash = "c662fa06e453244aa6bf1d821eb48c02c2e68b5eb56ed4b0af0aef950a694253"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
@@ -446,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "4190a2e1e26b1932eed9cc02461d09d12c55f340001dc3b46963e07ea9c1cf4b"
 metafile = true
 
 [[files]]
