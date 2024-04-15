@@ -290,6 +290,11 @@ hash = "4fe94e76440cc9912750c7d2c429e8430a66d60c71190abebb9c61422f899930"
 metafile = true
 
 [[files]]
+file = "mods/fps-monitor.pw.toml"
+hash = "e38fa1e7dd784a9a69856591efa99ef0ea76111d0d3e728caab974452c774828"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
 metafile = true

@@ -1,0 +1,13 @@
+name = "FPS Monitor"
+filename = "FPS-Monitor-1.20-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3AHrP4M0/versions/8nAH1H6f/FPS-Monitor-1.20-1.3.0.jar"
+hash-format = "sha1"
+hash = "b8f6e5d0466b457b4259276756420e1d9c1010eb"
+
+[update]
+[update.modrinth]
+mod-id = "3AHrP4M0"
+version = "8nAH1H6f"
