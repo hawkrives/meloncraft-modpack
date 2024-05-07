@@ -285,6 +285,11 @@ hash = "b060d816c6158a6e18173b1d8dea05aa225ec02579e35ca1986cd059c76f572d"
 metafile = true
 
 [[files]]
+file = "mods/fantasy-furniture.pw.toml"
+hash = "5b068cd6b35719602816bacce587a9122a59d40b01e4af6bb5a86ce2047043b2"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
