@@ -220,11 +220,6 @@ hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
 
 [[files]]
-file = "mods/cuffed.pw.toml"
-hash = "c057c8f9b3f37d4b6fe8bd663979b738e6ea6a6ecde0594dc0cf57d2e71640ff"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
 metafile = true
