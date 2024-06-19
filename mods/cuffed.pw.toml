@@ -1,0 +1,13 @@
+name = "Cuffed"
+filename = "Cuffed-1.20-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KrZm8J8s/versions/LmDLz4Rc/Cuffed-1.20-1.1.2.jar"
+hash-format = "sha1"
+hash = "75929fc22827e3524cf833ad30d47c92f9773236"
+
+[update]
+[update.modrinth]
+mod-id = "KrZm8J8s"
+version = "LmDLz4Rc"
