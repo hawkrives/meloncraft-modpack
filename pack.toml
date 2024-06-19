@@ -1,12 +1,12 @@
-name = "Meloncraft 1.3"
+name = "Meloncraft 1.4"
 author = "vids_by_melon"
-version = "1.3"
+version = "1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc1bfc5074c752a364970a956b99c96857f18ab05128993d0d794d86927e360a"
+hash = "83f2fd1e1acc041bf4d8f150b18c69eaecec6074d80195de2ede359968215cbb"
 
 [versions]
 minecraft = "1.20.1"
