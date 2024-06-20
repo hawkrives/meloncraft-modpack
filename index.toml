@@ -524,6 +524,11 @@ hash = "d92d38a261d5c8449b33c114ba3391567c5aca8853301928746de2386348b50b"
 metafile = true
 
 [[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "5b5fdfaf8e757e4f54e621aca1c52f5d8c90c7be3bc78c2978173326f5c02bf5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
 metafile = true
