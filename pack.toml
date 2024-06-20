@@ -1,6 +1,6 @@
-name = "Meloncraft 1.5.1"
+name = "Meloncraft 2.0.0"
 author = "vids_by_melon"
-version = "1.5.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "ac0bc17eada36f269bd956ebc934c90516310354965b90d8c574f97234b974ca"
 
 [versions]
+forge = "47.3.1"
 minecraft = "1.20.1"
-neoforge = "latest"
