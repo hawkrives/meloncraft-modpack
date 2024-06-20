@@ -1,6 +1,6 @@
-name = "Meloncraft 2.0.0"
+name = "Meloncraft 2.0.1"
 author = "vids_by_melon"
-version = "2.0.0"
+version = "2.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
