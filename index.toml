@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/destroy.pw.toml"
-hash = "85063ba86db4880177fa26fc5f3ec80a7d7450b411f740c52637d7b36dd58231"
+hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
 metafile = true
 
 [[files]]
