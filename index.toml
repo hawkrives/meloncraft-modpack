@@ -210,6 +210,11 @@ hash = "9261b71e382b07771083e0998e2a8e6997a874e8384fd0e1020774ae8c64baba"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "d68a785913f7c620440674dd53c69f2985f7875182f34613c335007a7edb443a"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
 metafile = true
