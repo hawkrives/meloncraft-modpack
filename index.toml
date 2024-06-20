@@ -385,6 +385,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "c122ed4347bbb82b881ca977d697a46973068911f169346392716d7734c4ad0a"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
