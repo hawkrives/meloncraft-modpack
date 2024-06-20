@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "6d42858c38ab8f568df550f4fb60663ad282e19a30dffbc3a75e8c9001238b14"
+hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
 metafile = true
 
 [[files]]
