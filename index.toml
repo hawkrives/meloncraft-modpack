@@ -245,11 +245,6 @@ hash = "b9ef62d3c1641e8b7e9880152bb172056d49c58a1613e6c909e6a2f9d741a814"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "c5760ce106b0baf7618b48c2a4e044d6f3fe6b437fcb8ae12808a47bdd95762d"
 metafile = true
