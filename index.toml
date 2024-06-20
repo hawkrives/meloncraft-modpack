@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
-hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+hash = "e614541c3ad63417bc0d4e1a6f68ff6d127ef04cc2bbe45b12ab69ed7394878e"
 metafile = true
 
 [[files]]
