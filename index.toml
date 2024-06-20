@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-home.pw.toml"
-hash = "a796a36053effa61f50c2e8a1aeb7511cf2c9a01c755e9e9acb8cbb2c3315358"
+hash = "933dbd01b71e1fba0a000b6c32c5c80f28173461ae23d13f9e25b32bc12de225"
 metafile = true
 
 [[files]]
